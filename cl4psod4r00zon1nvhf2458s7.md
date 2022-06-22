@@ -134,7 +134,7 @@ No!, As a sensible default, HTML already applied this rule for us on all block e
 </html>
 ``` 
 
-This `<div>` is just an example and I know theres a ton of other HTML Elements with bond to `IMF`s, you can research and update this article, I invite you to edit this article with your findings too. I shall make repo available at https://github.com/huffypiet/implicit-vs-explicit-html, please kindly fork and PR, as you find anything to update this article. Thanks.
+This `<div>` is just an example and I know theres a ton of other HTML Elements with bond to `IMF`s, you can research and update this article, I invite you to edit this article with your findings too. I shall make repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR, as you find anything to update this article. Thanks.
 
 
 #### Conclusion:
