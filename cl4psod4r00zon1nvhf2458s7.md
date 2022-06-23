@@ -13,19 +13,19 @@ Until days, turned weeks, weeks into months and years went by, and I forgot my k
 
 While in isolation, I noticed the bad, the good, and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like a self-imposed-imprisonment, alone and poor. And if one ever succeeds it leads to even more misery inwardly thus hampering mental health, stunting social growth, and eventually leading to the death of brilliance. But more of such discussions I shall save for another article. 
 
-> # ***While in isolation, I noticed the bad, the good and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like a self-imposed imprisonment, alone and poor.***
+> # ***While in isolation, I noticed the bad, the good, and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like self-imposed imprisonment, alone and poor.***
 
-In this article however I shall be sharing a discovery I made while working  or rather mostly experimenting with ideas in isolation for this has been the whole nature of my advent into programming for the vast majority of the time. There were a few times, I got hired to work freelance. And there was this one time I got hired by a non-profit group, whose aims and objectives were to build entrepreneurial capacities. They hired me to teach a class they had organized on web development(i.e. HTML CSS, and JavaScript), and so I needed to prepare and so I did. 
+In this article, however, I shall be sharing a discovery I made while working or rather mostly experimenting with ideas in isolation for this has been the whole nature of my advent into programming for the vast majority of the time. There were a few times, I got hired to work freelance. And there was this one time I got hired by a non-profit group, whose aims and objectives were to build entrepreneurial capacities. They hired me to teach a class they had organized on web development(i.e. HTML CSS, and JavaScript), and so I needed to prepare and so I did. 
 
 While preparing for this class I noticed something interesting pop up as I code the examples I'd wanted to teach to my class. These discoveries I made were concerning HTML Markups.
 
 .... Yeah! You can smile at that...
 
-So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with shows up  and tends in his or her resume and a link to his or her GitHub projects and most of them has the category, showing up as HTML underneath there. 
+So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with shows up and tends in his or her resume and a link to his or her GitHub projects, and most of them has the category, showing up as HTML underneath there. 
 
-But after reading this article, you can think it up for yourself, whether I am that developer with some "dangerous" levels, of a deeper understanding of 'HTML', that you  even require on your team or not.
+But after reading this article, you can think it up for yourself, whether I am that developer with some "dangerous" levels, of a deeper understanding of 'HTML', that you even require on your team or not.
 
-For a lot of people, **HTML**,  should never enumerated among programming languages, but here within this article, you will well find out that in some sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and well utilize, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
+For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in some sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and well utilize, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
 
 - **1. Computed Markup function HTML**
 - **2.  And Innate Markup function HTML**
