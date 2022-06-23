@@ -3,15 +3,15 @@
 Photo by <a href="https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Dziedzic</a> on <a href="https://unsplash.com/s/photos/css?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-As a matter of a long  over-due  change I needed to make, that is what drove me,to write-up this article. So If you find yourself having to read articles from me, please realize this, that I have very much deliberated inwardly first, that I should have such an effect on you.
+As a matter of a long over-due change I needed to make, that is what drove me, to write up this article. So If you find yourself having to read articles from me, please realize, that I have very much deliberated inwardly first, before going ahead to write.
 
-First this article was born out of the desire to maintain relevance within an ever dynamic web developer/tech community across the globe. In every sincerity, the hardship at a time or circumstances might have been my first reason for practicing, and learning to code in isolation.  Although the hardship still persists, I have gathered enough experience to break away from that loop thus, going ahead with even this article.
+First, this article was born out of the desire to maintain relevance within an ever-dynamic web developer/tech community across the globe. In every sincerity, the hardship at a time or circumstances might have been my first reason for practicing, and learning to code in isolation.  Although the hardship still persists, I have gathered enough experience to break away from that loop thus, going ahead with even this article.
 
-When I first started there was little of everything and thus triggered a survival instinct, and a scarcity mindset of trying to manage resources, and skills. Especially those skills, that I found I was comfortably conversant with and to avoid the outer 'disruptive' world for a while as much as possible.
+When I first started, there was little of everything and thus triggered a survival instinct, and a scarcity mindset of trying to manage resources, and skills. Especially those skills, that I found I was comfortably conversant with and try to avoid the outer 'disruptive' world for a while as much as possible.
 
-Until day, months and years went by, and I forgot my keys to open back the doors to the outer-world. If you read this, its because I am breaking the locks to the doors I put in place.
+Until days, turned weeks, weeks into months and years went by, and I forgot my keys to open the doors to the outer world. If you read this, it's because I am breaking the locks to the doors I put in place.
 
-While in isolation, I noticed the bad, the good and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like a self-imposed-imprisonment, alone and poor. And if one ever succeeds it leads to even more misery inwardly thus hampering mental health, staunting social growth and eventually leading to the death of brilliance . But more of such discussions I shall save for another article. 
+While in isolation, I noticed the bad, the good, and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like a self-imposed-imprisonment, alone and poor. And if one ever succeeds it leads to even more misery inwardly thus hampering mental health, stunting social growth, and eventually leading to the death of brilliance. But more of such discussions I shall save for another article. 
 
 > # ***While in isolation, I noticed the bad, the good and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like a self-imposed imprisonment, alone and poor.***
 
