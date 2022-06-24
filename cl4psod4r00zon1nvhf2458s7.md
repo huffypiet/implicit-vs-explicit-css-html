@@ -143,3 +143,5 @@ Waiting for that perfect day has instead turned out to be a mirage, I was rather
 If I were to stay the same, not changing from my old habits constantly and not finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into account all of you, in the  ***Coding, Programming, Tech Community***, at large, and sharing with a whole lot of you, then the mission might turn out to become a great omission.
 
 
+**Finally, I want to take the time to say thank you for reading. I hope you enjoyed it, if you did you may comment below, or else you may email me to share any opinion or suggestions that may be useful in helping me improve upon my writing or address any omission I may have made or needless inclusion I might have added. Whatever it may be, I'm open to hearing from you regardless. **
+
