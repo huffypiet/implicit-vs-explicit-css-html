@@ -1,7 +1,9 @@
 ## Implicit vs. Explicit CSS
 
 Photo by <a href="https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Dziedzic</a> on <a href="https://unsplash.com/s/photos/css?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
+[Updated 24/06/22, since original, 22/06/22]
+
 #### Background
 As a matter of a long over-due change I needed to make, that is what drove me, to write up this article. So If you find yourself having to read articles from me, please realize, that I have very much deliberated inwardly first, before going ahead to write.
 
