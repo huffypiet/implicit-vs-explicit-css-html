@@ -23,26 +23,26 @@ While preparing for this class I noticed something interesting pop up as I code 
 
 .... Yeah! You can smile at that...
 
-So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with shows up and tends in his or her resume and a link to his or her GitHub projects, and most of them have the category, showing up as HTML underneath there. 
+So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with, shows up and tends in his or her resume and a link to his or her GitHub projects, and most of them have the category, showing up as HTML underneath there. 
 
 But after reading this article, you can think it up for yourself, whether I am that developer with some "dangerous" levels, of a deeper understanding of 'HTML', that you even require on your team or not.
 
-For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in some sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and well utilize, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
+For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in a sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and utilize well, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
 
 - **1. Computed Markup function of HTML**
 - **2.  And Innate Markup function of HTML**
 
 #### 1. Computed Markup Function of HTML:
 
-Let's consider this function of HTML, called, Computed Markup Function of HTML , as ***"CMF"***, I know some of you or most of you may go like -- ***[with a bugs bunny sort of voice], this is,  'new', what happened, where from this term,  or terms or concept. ***
+Let's consider this function of HTML, called, Computed Markup Function of HTML, as ***"CMF"***, I know some of you or most of you may go like -- ***[with a bugs bunny sort of voice], this is,  'new', what happened, where from this term,  or terms or concept. ***
  
 Is it made up?
 
  You bet yeah! : D. 
 
-When you work in isolation things like this ought to be documented regardless of whether you know the right word or not. Who knows? this may well become a globally accepted wording as the term, first coined by yours truly, **moi**, and when you just always a have limited access to the internet or time, or other resources, you begin to invent and coin terms, or create utilities for an even greater invention.
+When you work in isolation things like this ought to be documented regardless of whether you know the right word or not. Who knows? this may well become a globally accepted wording as the term, first coined by yours truly, **moi**, and when you just always have limited access to the internet or time or other resources, you begin to invent and coin terms or create utilities for an even greater invention.
 
-Now lets examine together what this function does and where it often occurs. `CMF` of HTML. Consider the snippet below;
+Now let's examine together what this function does and where it often occurs. `CMF` of HTML. Consider the snippet below;
 
 ```
 <!doctype html>
@@ -68,7 +68,7 @@ Supposing say we wanted to consider placing a loading animation or a spinner ont
 </html>
 ``` 
 
-Placing `<div>` element into a `<head>` element, is forbidden, I think, but  lets say we go ahead with our mischievous endeavor trying our clever way of achieving  the load spinner and keeping our main markup clear of the loader code then you will notice HTML `CMF` kick into action.  
+Placing `<div>` element into a `<head>` element is forbidden, I think, but let's say we go ahead with our mischievous endeavor trying our clever way of achieving the load spinner and keeping our main markup clear of the loader code thats when you will notice HTML `CMF` kick into action.  
 
 This function albeit a bit abstract, organizes HTML elements into the proper way it should be organized when your website runs. So say when you inspect your code after running the latter snippet? The snippet would show up instead of the markup you wrote in the browser.
 
@@ -87,9 +87,9 @@ This function albeit a bit abstract, organizes HTML elements into the proper way
 
 #### 2. Innate Markup function HTML:
 
-Again lets examine another instance where an HTML functions runs automatically. This function, I shall refer to as, `IMF` short for `Innate Markup Function` of HTML.  And what it does, is automatically, apply some sensible default CSS style on the HTML elements right at birth. At birth implies when you introduce those element or include those element with your HTML Markup. 
+Again let's examine another instance where an HTML function runs automatically. This function, I shall refer to as, `IMF` short for `Innate Markup Function` of HTML.  And what it does, is automatically, apply some sensible default CSS style on the HTML elements right at birth. At birth implies when you introduce those element or include those element with your HTML Markup. 
 
-Lets consider the snippet below. In this snippet, we introduce a block element. And what  front-end developers sometimes forget when styling or writing CSS for this Element is that it has some innate properties already applied.
+Let's consider the snippet below. In this snippet, we introduce a block element. And what front-end developers sometimes forget when styling or writing CSS for this Element is that it has some innate properties already applied.
 
 ```
 <!doctype html>
@@ -106,12 +106,12 @@ Lets consider the snippet below. In this snippet, we introduce a block element. 
 
 So to style such and element when `IMF` has applied some styles, we need to consider what these properties applied are, perhaps interrogate the element :D . 
 
--  First we should ask, ourselves, do we need to add, for example `display:block`? 
-No!, As a sensible default, HTML already applied this rule for us on all block elements, Except, we want to do differently. we may have to just leave it just as it is.
+-  First, we should ask, ourselves, do we need to add, for example `display:block`? 
+No!, As a sensible default, HTML already applied this rule for us on all block elements, Except, we want to do it differently. we may have to just leave it just as it is.
 
 -   Second do we need to add a CSS rule for width? No!, Not always, because, you guessed it, `IMF`, already did it for us.
 
--  Thirdly, what rules can we apply to such an element if we gave birth to it, and it's were to also now become a parent? :D ... We tell it to stand tall. Yes I mean literally, then all we need to add to it, as CSS rules, are may be `height: 400px` or whatever height we should provide it as support. And to honor it with some color like I have done in the snippet below.
+-  Thirdly, what rules can we apply to such an element if we gave birth to it, and it's were to also now become a parent? :D ... We tell it to stand tall. Yes I mean literally, then all we need to add to it, as CSS rules are maybe `height: 400px` or whatever height we should provide it as support. And to honor it with some color as I have done in the snippet below.
 
 ```
 <!doctype html>
@@ -133,13 +133,13 @@ No!, As a sensible default, HTML already applied this rule for us on all block e
 </html>
 ``` 
 
-This `<div>` is just an example and I know theres a ton of other HTML Elements with bond to `IMF`s, you can research and update this article, I invite you to edit this article with your findings too. I shall make a repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR, as you find anything to update this article. Thanks.
+This `<div>` is just an example and I know there are a ton of other HTML Elements with bond to `IMFs`, you can research and update this article, I invite you to edit this article with your findings too. I shall make a repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR if you find anything to update this article. Thanks.
 
 
 #### Conclusion:
 
 Waiting for that perfect day has instead turned out to be a mirage, I was rather not reaching, any sooner, no matter how long I waited or stayed not trying hard enough to make the change. 
 
-If I were  to stay the same, not changing from my  old habits constantly and not finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into account all of you, in the  ***Coding, Programming, Tech Community***, at large, and sharing with a whole lot of you, then the mission might turn out to become a great omission.
+If I were to stay the same, not changing from my old habits constantly and not finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into account all of you, in the  ***Coding, Programming, Tech Community***, at large, and sharing with a whole lot of you, then the mission might turn out to become a great omission.
 
 
