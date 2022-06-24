@@ -54,7 +54,7 @@ Now let's examine together what this function does and where it often occurs. `C
 </html>
 ``` 
 
-Supposing say we wanted to consider placing a loading animation or a spinner onto our website before any website loads from the body element. And we want to be a bit of clever, we would do this.
+Supposing say we wanted to consider placing a loading animation or a spinner onto our website before any website loads from the body element. And we want to be a bit clever, we would do this.
 
 ```
 <!doctype html>
@@ -68,9 +68,9 @@ Supposing say we wanted to consider placing a loading animation or a spinner ont
 </html>
 ``` 
 
-Placing `<div>` element into a `<head>` element is forbidden, I think, but let's say we go ahead with our mischievous endeavor trying our clever way of achieving the load spinner and keeping our main markup clear of the loader code thats when you will notice HTML `CMF` kick into action.  
+Placing `<div>` element into a `<head>` element is forbidden, I think, but let's say we go ahead with our mischievous endeavor trying our clever way of achieving the loading spinner and keeping our main markup clear of the loader code that's when you will notice HTML `CMF` kick into action.  
 
-This function albeit a bit abstract, organizes HTML elements into the proper way it should be organized when your website runs. So say when you inspect your code after running the latter snippet? The snippet would show up instead of the markup you wrote in the browser.
+This function albeit a bit abstract organizes HTML elements in the proper way they should be organized when your website runs. So say when you inspect your code after running the latter snippet? The snippet would show up instead of the markup you wrote in the browser.
 
 ```
 <!doctype html>
@@ -87,7 +87,7 @@ This function albeit a bit abstract, organizes HTML elements into the proper way
 
 #### 2. Innate Markup function HTML:
 
-Again let's examine another instance where an HTML function runs automatically. This function, I shall refer to as, `IMF` short for `Innate Markup Function` of HTML.  And what it does, is automatically, apply some sensible default CSS style on the HTML elements right at birth. At birth implies when you introduce those element or include those element with your HTML Markup. 
+Again let's examine another instance where an HTML function runs automatically. This function, I shall refer to as, `IMF` short for `Innate Markup Function` of HTML.  And what it does, is automatically, apply some sensible default CSS style on the HTML elements right at birth. At birth implies when you introduce those elements or include those elements with your HTML Markup. 
 
 Let's consider the snippet below. In this snippet, we introduce a block element. And what front-end developers sometimes forget when styling or writing CSS for this Element is that it has some innate properties already applied.
 
@@ -104,14 +104,14 @@ Let's consider the snippet below. In this snippet, we introduce a block element.
 </html>
 ``` 
 
-So to style such and element when `IMF` has applied some styles, we need to consider what these properties applied are, perhaps interrogate the element :D . 
+So to style such an element when `IMF` has applied some styles, we need to consider what these properties applied are, perhaps interrogate the element :D. 
 
--  First, we should ask, ourselves, do we need to add, for example `display:block`? 
+-  First, we should ask, ourselves, do we need to add, for example `display: block`? 
 No!, As a sensible default, HTML already applied this rule for us on all block elements, Except, we want to do it differently. we may have to just leave it just as it is.
 
 -   Second do we need to add a CSS rule for width? No!, Not always, because, you guessed it, `IMF`, already did it for us.
 
--  Thirdly, what rules can we apply to such an element if we gave birth to it, and it's were to also now become a parent? :D ... We tell it to stand tall. Yes I mean literally, then all we need to add to it, as CSS rules are maybe `height: 400px` or whatever height we should provide it as support. And to honor it with some color as I have done in the snippet below.
+-  Thirdly, what rules can we apply to such an element if we gave birth to it, and it was to also now become a parent? :D ... We tell it to stand tall. Yes I mean literally, then all we need to add to it, as CSS rules are maybe `height: 400px` or whatever height we should provide it as support. And to honor it with some color as I have done in the snippet below.
 
 ```
 <!doctype html>
@@ -133,7 +133,7 @@ No!, As a sensible default, HTML already applied this rule for us on all block e
 </html>
 ``` 
 
-This `<div>` is just an example and I know there are a ton of other HTML Elements with bond to `IMFs`, you can research and update this article, I invite you to edit this article with your findings too. I shall make a repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR if you find anything to update this article. Thanks.
+This `<div>` is just an example and I know there are a ton of other HTML Elements with a bond to `IMFs`, you can research and update this article, I invite you to edit this article with your findings too. I shall make a repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR if you find anything to update this article. Thanks.
 
 
 #### Conclusion:
