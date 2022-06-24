@@ -25,9 +25,7 @@ While preparing for this class I noticed something interesting pop up as I code 
 
 So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with, shows up and tends in his or her resume and a link to his or her GitHub projects, and most of them have the category, showing up as HTML underneath there. 
 
-But after reading this article, you can think it up for yourself, whether I am that developer with some "dangerous" levels, of a deeper understanding of 'HTML', that you even require on your team or not.
-
-For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in a sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and utilize well, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
+For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in a sense,  ***HTML***, might be a sort of "abstract", **programming language**  with specific functions that when you realize and utilize well, could make your life the lot simpler and easier. Although I concede, that HTML is not like your typical programming language at all, you may not be able to program very well on the web without knowing how it behaves and work. So we shall get into a few of those, that I may refer to, with regards to implicit CSS as;
 
 - **1. Computed Markup function of HTML**
 - **2.  And Innate Markup function of HTML**
