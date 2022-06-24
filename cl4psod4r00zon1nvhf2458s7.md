@@ -27,8 +27,8 @@ But after reading this article, you can think it up for yourself, whether I am t
 
 For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in some sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and well utilize, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
 
-- **1. Computed Markup function HTML**
-- **2.  And Innate Markup function HTML**
+- **1. Computed Markup function of HTML**
+- **2.  And Innate Markup function of HTML**
 
 
 #### 1. Computed Markup Function of HTML:
@@ -110,7 +110,7 @@ No!, As a sensible default, HTML already applied this rule for us on all block e
 
 -   Second do we need to add a CSS rule for width? No!, Not always, because, you guessed it, `IMF`, already did it for us.
 
--  Thirdly, then what rules can we apply to such an element if we gave birth to it, and its going to also now become a parent? :D ... We tell it to stand tall. Yes I mean literally, then all we need to add to it, as CSS rules, are may be `height: 400px` or whatever height we should provide it as support. And to honor it with some color like I have done in the snippet below.
+-  Thirdly, what rules can we apply to such an element if we gave birth to it, and it's were to also now become a parent? :D ... We tell it to stand tall. Yes I mean literally, then all we need to add to it, as CSS rules, are may be `height: 400px` or whatever height we should provide it as support. And to honor it with some color like I have done in the snippet below.
 
 ```
 <!doctype html>
@@ -132,13 +132,13 @@ No!, As a sensible default, HTML already applied this rule for us on all block e
 </html>
 ``` 
 
-This `<div>` is just an example and I know theres a ton of other HTML Elements with bond to `IMF`s, you can research and update this article, I invite you to edit this article with your findings too. I shall make repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR, as you find anything to update this article. Thanks.
+This `<div>` is just an example and I know theres a ton of other HTML Elements with bond to `IMF`s, you can research and update this article, I invite you to edit this article with your findings too. I shall make a repo available at https://github.com/huffypiet/implicit-vs-explicit-css-html, please kindly fork and PR, as you find anything to update this article. Thanks.
 
 
 #### Conclusion:
 
-I've always longed for and want to make a meaningful impact but waiting for that perfect day has rather turned out to be rather a mirage, I was rather not reaching, any sooner, no matter how long I waited, or stayed not trying hard enough. 
+Waiting for that perfect day has instead turned out to be a mirage, I was rather not reaching, any sooner, no matter how long I waited, or stayed not trying hard enough to make the change. 
 
-If I were  to stay the same, not changing my habits constantly and finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into accounts all of you, in the  Coding, Programming, Tech Community, at large, and  sharing with a whole lot of you guys then my mission would may be turn out to be a great omission.
+If I were  to stay the same, not changing from my  old habits constantly and not finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into accounts all of you, in the  ***Coding, Programming, Tech Community***, at large, and sharing with a whole lot of you, then the mission might turn out becoming a great omission.
 
 
