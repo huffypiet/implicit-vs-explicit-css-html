@@ -23,19 +23,14 @@ While preparing for this class I noticed something interesting pop up as I code 
 
 .... Yeah! You can smile at that...
 
-So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with shows up and tends in his or her resume and a link to his or her GitHub projects, and most of them has the category, showing up as HTML underneath there. 
+So I know for a fact most people crack up into laughter and a frenzy, when a programmer that they are looking forward to collaborating with shows up and tends in his or her resume and a link to his or her GitHub projects, and most of them have the category, showing up as HTML underneath there. 
 
 But after reading this article, you can think it up for yourself, whether I am that developer with some "dangerous" levels, of a deeper understanding of 'HTML', that you even require on your team or not.
 
-
-
-
 For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in some sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and well utilize, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
-
 
 - **1. Computed Markup function of HTML**
 - **2.  And Innate Markup function of HTML**
-
 
 #### 1. Computed Markup Function of HTML:
 
@@ -59,7 +54,7 @@ Now lets examine together what this function does and where it often occurs. `CM
 </html>
 ``` 
 
-Supposing say we wanted to consider placing a loading animation or a spinner onto our website before any website loads from the body tag. And we want to be a bit of clever, we would do this.
+Supposing say we wanted to consider placing a loading animation or a spinner onto our website before any website loads from the body element. And we want to be a bit of clever, we would do this.
 
 ```
 <!doctype html>
@@ -92,9 +87,9 @@ This function albeit a bit abstract, organizes HTML elements into the proper way
 
 #### 2. Innate Markup function HTML:
 
-Again lets examine another instance where an HTML functions runs automatically. This function, I shall  refer to as, `IMF` short for `Innate Markup Function` of HTML.  And what it does, is automatically, apply some sensible default CSS style on HTML element right at birth. At birth implies when you introduce those element or include those element with your HTML Markup. 
+Again lets examine another instance where an HTML functions runs automatically. This function, I shall refer to as, `IMF` short for `Innate Markup Function` of HTML.  And what it does, is automatically, apply some sensible default CSS style on the HTML elements right at birth. At birth implies when you introduce those element or include those element with your HTML Markup. 
 
-Lets consider the snippet below. In this snippet we introduce a block element. And what  front-end developers sometimes forget when styling or writing CSS for this Element is that it has some innate properties already applied.
+Lets consider the snippet below. In this snippet, we introduce a block element. And what  front-end developers sometimes forget when styling or writing CSS for this Element is that it has some innate properties already applied.
 
 ```
 <!doctype html>
@@ -112,7 +107,7 @@ Lets consider the snippet below. In this snippet we introduce a block element. A
 So to style such and element when `IMF` has applied some styles, we need to consider what these properties applied are, perhaps interrogate the element :D . 
 
 -  First we should ask, ourselves, do we need to add, for example `display:block`? 
-No!, As a sensible default, HTML already applied this rule for us on all block elements, Except, we want to do different. we may have to just leave it just as it is.
+No!, As a sensible default, HTML already applied this rule for us on all block elements, Except, we want to do differently. we may have to just leave it just as it is.
 
 -   Second do we need to add a CSS rule for width? No!, Not always, because, you guessed it, `IMF`, already did it for us.
 
@@ -143,8 +138,8 @@ This `<div>` is just an example and I know theres a ton of other HTML Elements w
 
 #### Conclusion:
 
-Waiting for that perfect day has instead turned out to be a mirage, I was rather not reaching, any sooner, no matter how long I waited, or stayed not trying hard enough to make the change. 
+Waiting for that perfect day has instead turned out to be a mirage, I was rather not reaching, any sooner, no matter how long I waited or stayed not trying hard enough to make the change. 
 
-If I were  to stay the same, not changing from my  old habits constantly and not finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into accounts all of you, in the  ***Coding, Programming, Tech Community***, at large, and sharing with a whole lot of you, then the mission might turn out becoming a great omission.
+If I were  to stay the same, not changing from my  old habits constantly and not finding a good rhythm to dance my way to Freedom, Freedom of expression through code, Freedom of association, and the Freedom to be Badass :D by often taking into account all of you, in the  ***Coding, Programming, Tech Community***, at large, and sharing with a whole lot of you, then the mission might turn out to become a great omission.
 
 
