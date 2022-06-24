@@ -2,7 +2,7 @@
 
 Photo by <a href="https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Dziedzic</a> on <a href="https://unsplash.com/s/photos/css?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-
+#### Background
 As a matter of a long over-due change I needed to make, that is what drove me, to write up this article. So If you find yourself having to read articles from me, please realize, that I have very much deliberated inwardly first, before going ahead to write.
 
 First, this article was born out of the desire to maintain relevance within an ever-dynamic web developer/tech community across the globe. In every sincerity, the hardship at a time or circumstances might have been my first reason for practicing, and learning to code in isolation.  Although the hardship still persists, I have gathered enough experience to break away from that loop thus, going ahead with even this article.
@@ -15,6 +15,7 @@ While in isolation, I noticed the bad, the good, and the ugly. To highlight the 
 
 > ***While in isolation, I noticed the bad, the good, and the ugly. To highlight the negative that lies within, practicing programming in isolation or accepting to work solely in isolation, I shall say that in isolation one fails and dies in silence - like self-imposed imprisonment, alone and poor.***
 
+### Introduction
 In this article, however, I shall be sharing a discovery I made while working or rather mostly experimenting with ideas in isolation for this has been the whole nature of my advent into programming for the vast majority of the time. There were a few times, I got hired to work freelance. And there was this one time I got hired by a non-profit group, whose aims and objectives were to build entrepreneurial capacities. They hired me to teach a class they had organized on web development(i.e. HTML CSS, and JavaScript), and so I needed to prepare and so I did. 
 
 While preparing for this class I noticed something interesting pop up as I code the examples I'd wanted to teach to my class. These discoveries I made were concerning HTML Markups.
@@ -25,7 +26,11 @@ So I know for a fact most people crack up into laughter and a frenzy, when a pro
 
 But after reading this article, you can think it up for yourself, whether I am that developer with some "dangerous" levels, of a deeper understanding of 'HTML', that you even require on your team or not.
 
+
+#### Overview
+
 For a lot of people, **HTML** should never be enumerated among programming languages, but here within this article, you will well find out that in some sense,  ***HTML***, is actually a **programming language** of some sort with specific functions that when you realize and well utilize, could make your life the lot simpler and easier.  We shall get into a few of those, that I may refer to, with regards to implicit CSS as;
+
 
 - **1. Computed Markup function of HTML**
 - **2.  And Innate Markup function of HTML**
